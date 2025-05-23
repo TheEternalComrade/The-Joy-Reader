@@ -1,6 +1,6 @@
-----
+---
 title: "The Joy-Reader" 
-author: "Ayo" 
+author: "@ayo" 
 description: "A knockoff kindle"
 created_at: "2025-05-22"
-----
+---
